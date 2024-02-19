@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.botton {
+    color: rgb(255, 255, 255);
+    border: 1px solid;
+    padding: 8px 8px 8px 8px;
+    border-radius: 15px;
+    background-color: rgb(214, 147, 184);
+}
+.text-uppercase {
+    text-transform: uppercase;
+    color: rgb(7, 17, 112);
+}
+a {
+    text-decoration: none;
+}
+input {
+    margin-top: 4px;
+}
